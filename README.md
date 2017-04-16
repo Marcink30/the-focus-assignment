@@ -6,7 +6,7 @@ Before reading any further, take a moment to inspect all the files and folders i
 
 ## Description
 
-You will create a transfer of [this Photoshop PSD](comps/focus.psd), created by Michael Reimer at [`bestpsdfreebies.com`](http://www.bestpsdfreebies.com/), into a web page. (The original is found [here](http://www.bestpsdfreebies.com/freebie/focus-psd-theme/).) The starter CSS, fonts, and assets you’ll need are discussed below.
+You will create a transfer of [this Photoshop PSD](comps/focus.psd), created by Michael Reimer at [`bestpsdfreebies.com`](http://www.bestpsdfreebies.com/), into a web page. (The original is found [here](http://www.bestpsdfreebies.com/freebie/focus-psd-theme/).) A responsive version is not required; only replicate the PSD file at the native dimensions of `1600 × 2494`. The starter CSS, fonts, and assets you’ll need are discussed below.
 
 ## Grid
 
